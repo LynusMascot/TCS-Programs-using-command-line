@@ -28,11 +28,7 @@ int main(int argc, char *argv[]){
          
        }
        num=num/10;
-       
-       printf("num : %d\n",num);
-       printf("n: %d\n",orig);
-       
-       
+ 
        if(num==orig){ printf("Number is Palindrome");}
        else{ printf("Number is not Palindrome");}
         
