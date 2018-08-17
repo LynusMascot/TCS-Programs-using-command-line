@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     {
        
        int a=atoi(argv[1]);
-      //comment the lines from 15 to  23 to use recurive approach
+      //comment the lines from 21 to  29 to use recurive approach
       // replace with this :
       /* int r;
          r=factorial(a);
