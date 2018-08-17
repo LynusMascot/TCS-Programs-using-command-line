@@ -1,5 +1,5 @@
 //Author : Rohit Goswami
-// Code check armstrong number of any length
+// Code to check armstrong number of any length
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
