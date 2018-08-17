@@ -1,4 +1,4 @@
-//uncomment the lines to use recursive approach
+// Author : Rohit Goswami || Note: uncomment the lines to use recursive approach
 #include <stdio.h>
 #include <conio.h>
 
